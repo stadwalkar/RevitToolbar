@@ -1,0 +1,5 @@
+C:\Users\stadwalkar\source\repos\Lab1PlaceGroup\Lab1PlaceGroup\bin\Debug\Lab1PlaceGroup.addin
+C:\Users\stadwalkar\source\repos\Lab1PlaceGroup\Lab1PlaceGroup\bin\Debug\Lab1PlaceGroup.dll
+C:\Users\stadwalkar\source\repos\Lab1PlaceGroup\Lab1PlaceGroup\bin\Debug\Lab1PlaceGroup.pdb
+C:\Users\stadwalkar\source\repos\Lab1PlaceGroup\Lab1PlaceGroup\obj\Debug\Lab1PlaceGroup.dll
+C:\Users\stadwalkar\source\repos\Lab1PlaceGroup\Lab1PlaceGroup\obj\Debug\Lab1PlaceGroup.pdb

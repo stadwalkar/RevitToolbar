@@ -1,0 +1,353 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<RevitAddIns>
+
+<AddIn Type="Command">
+
+    <Name>Lab1PlaceGroup</Name>
+
+    <FullClassName>Lab1PlaceGroup.GetElementId</FullClassName>
+
+    <Text>GetElementId</Text>
+
+    <Description>Gets element ID</Description>
+
+    <VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+
+    <Assembly>Lab1PlaceGroup.dll</Assembly>
+
+    <AddInId>EDB9F0A1-4A27-466F-9194-000095657082</AddInId>
+
+    <VendorId>ADSK</VendorId>
+
+    <VendorDescription>Autodesk, Inc, www.autodesk.com</VendorDescription>
+
+  </AddIn>
+<AddIn Type="Command">
+
+    <Name>Lab1PlaceGroup</Name>
+
+    <FullClassName>Lab1PlaceGroup.CollectWindows</FullClassName>
+
+    <Text>CollectWindows</Text>
+
+    <Description>Collect windows from a document</Description>
+
+    <VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+
+    <Assembly>Lab1PlaceGroup.dll</Assembly>
+
+    <AddInId>449B2A4C-0B8A-4D84-B00E-26EEBD0D1311</AddInId>
+
+    <VendorId>ADSK</VendorId>
+
+    <VendorDescription>Autodesk, Inc, www.autodesk.com</VendorDescription>
+
+  </AddIn>
+<AddIn Type="Command">
+
+  <Name>Lab1PlaceGroup</Name>
+
+  <FullClassName>Lab1PlaceGroup.DeleteElement</FullClassName>
+
+  <Text>DeleteElement</Text>
+
+  <Description>Deletes a selected element</Description>
+
+  <VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+
+  <Assembly>Lab1PlaceGroup.dll</Assembly>
+
+  <AddInId>A743CC66-282F-4D9F-8BA0-7353917B84CE</AddInId>
+
+  <VendorId>ADSK</VendorId>
+
+  <VendorDescription>Autodesk, Inc, www.autodesk.com</VendorDescription>
+
+</AddIn>
+<AddIn Type="Command">
+
+    <Name>Lab1PlaceGroup</Name>
+
+    <FullClassName>Lab1PlaceGroup.PlaceFamily</FullClassName>
+
+    <Text>PlaceFamily</Text>
+
+    <Description>Placec a family</Description>
+
+    <VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+
+    <Assembly>Lab1PlaceGroup.dll</Assembly>
+
+    <AddInId>1C8942BA-860C-4C87-927F-E4FBB1DB8604</AddInId>
+
+    <VendorId>ADSK</VendorId>
+
+    <VendorDescription>Autodesk, Inc, www.autodesk.com</VendorDescription>
+
+  </AddIn>
+<AddIn Type="Command">
+
+    <Name>Lab1PlaceGroup</Name>
+
+    <FullClassName>Lab1PlaceGroup.PlaceLineElement</FullClassName>
+
+    <Text>Place Line</Text>
+
+    <Description>Placec a family</Description>
+
+    <VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+
+    <Assembly>Lab1PlaceGroup.dll</Assembly>
+
+    <AddInId>ED8F83D9-D23F-44C1-A4BD-1E2B87D4CAF4</AddInId>
+
+    <VendorId>ADSK</VendorId>
+
+    <VendorDescription>Autodesk, Inc, www.autodesk.com</VendorDescription>
+
+  </AddIn>
+<AddIn Type="Command">
+
+    <Name>Lab1PlaceGroup</Name>
+
+    <FullClassName>Lab1PlaceGroup.PlaceLoopElement</FullClassName>
+
+    <Text>Place Loop Element</Text>
+
+    <Description>Place Loop Element</Description>
+
+    <VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+
+    <Assembly>Lab1PlaceGroup.dll</Assembly>
+
+    <AddInId>F1B82506-0E54-4AB7-B1AE-CB0BF897AD2D</AddInId>
+
+    <VendorId>ADSK</VendorId>
+
+    <VendorDescription>Autodesk, Inc, www.autodesk.com</VendorDescription>
+
+  </AddIn>
+<AddIn Type="Command">
+
+    <Name>Lab1PlaceGroup</Name>
+
+    <FullClassName>Lab1PlaceGroup.GetParameter</FullClassName>
+
+    <Text>Get Parameter</Text>
+
+    <Description>Get Parameter</Description>
+
+    <VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+
+    <Assembly>Lab1PlaceGroup.dll</Assembly>
+
+    <AddInId>0DF6A6D4-C5FF-46C8-AC15-D858508B7044</AddInId>
+
+    <VendorId>ADSK</VendorId>
+
+    <VendorDescription>Autodesk, Inc, www.autodesk.com</VendorDescription>
+
+  </AddIn>
+<AddIn Type="Command">
+
+    <Name>Lab1PlaceGroup</Name>
+
+    <FullClassName>Lab1PlaceGroup.SetParameter</FullClassName>
+
+    <Text>Set Parameter</Text>
+
+    <Description>Set Parameter</Description>
+
+    <VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+
+    <Assembly>Lab1PlaceGroup.dll</Assembly>
+
+    <AddInId>2F786002-DC30-4D54-8E28-FC893A9E77A7</AddInId>
+
+    <VendorId>ADSK</VendorId>
+
+    <VendorDescription>Autodesk, Inc, www.autodesk.com</VendorDescription>
+
+  </AddIn>
+<AddIn Type="Command">
+
+    <Name>Lab1PlaceGroup</Name>
+
+    <FullClassName>Lab1PlaceGroup.ChangeLocation</FullClassName>
+
+    <Text>Change Location </Text>
+
+    <Description>Change Location</Description>
+
+    <VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+
+    <Assembly>Lab1PlaceGroup.dll</Assembly>
+
+    <AddInId>8F43E44D-23D7-403A-A125-1E7C1B417A21</AddInId>
+
+    <VendorId>ADSK</VendorId>
+
+    <VendorDescription>Autodesk, Inc, www.autodesk.com</VendorDescription>
+
+  </AddIn> 
+<AddIn Type="Command">
+
+    <Name>Lab1PlaceGroup</Name>
+
+    <FullClassName>Lab1PlaceGroup.SelectGeometry</FullClassName>
+
+    <Text>Select Geometry </Text>
+
+    <Description>Select Geometry</Description>
+
+    <VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+
+    <Assembly>Lab1PlaceGroup.dll</Assembly>
+
+    <AddInId>6A17A41D-FC13-461E-B693-139FD74A0EB7</AddInId>
+
+    <VendorId>ADSK</VendorId>
+
+    <VendorDescription>Autodesk, Inc, www.autodesk.com</VendorDescription>
+
+  </AddIn>
+<AddIn Type="Command">
+
+    <Name>Lab1PlaceGroup</Name>
+
+    <FullClassName>Lab1PlaceGroup.ElementIntersection</FullClassName>
+
+    <Text>Element Intersection</Text>
+
+    <Description>Element Intersection</Description>
+
+    <VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+
+    <Assembly>Lab1PlaceGroup.dll</Assembly>
+
+    <AddInId>077132D8-1716-46A3-911C-775FBC4B0DD0</AddInId>
+
+    <VendorId>ADSK</VendorId>
+
+    <VendorDescription>Autodesk, Inc, www.autodesk.com</VendorDescription>
+
+  </AddIn>
+<AddIn Type="Command">
+
+    <Name>Lab1PlaceGroup</Name>
+
+    <FullClassName>Lab1PlaceGroup.ProjectRay</FullClassName>
+
+    <Text>Project Ray</Text>
+
+    <Description>Project Ray</Description>
+
+    <VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+
+    <Assembly>Lab1PlaceGroup.dll</Assembly>
+
+    <AddInId>3049A946-7FED-4696-B67F-75445C3B39E6</AddInId>
+
+    <VendorId>ADSK</VendorId>
+
+    <VendorDescription>Autodesk, Inc, www.autodesk.com</VendorDescription>
+
+  </AddIn>
+<AddIn Type="Command">
+
+    <Name>Lab1PlaceGroup</Name>
+
+    <FullClassName>Lab1PlaceGroup.PlanView</FullClassName>
+
+    <Text>Plan View</Text>
+
+    <Description>Plan View</Description>
+
+    <VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+
+    <Assembly>Lab1PlaceGroup.dll</Assembly>
+
+    <AddInId>DA6014D8-2047-44EF-842C-3CC944EB9465</AddInId>
+
+    <VendorId>ADSK</VendorId>
+
+    <VendorDescription>Autodesk, Inc, www.autodesk.com</VendorDescription>
+
+  </AddIn> 
+<AddIn Type="Command">
+
+    <Name>Lab1PlaceGroup</Name>
+
+    <FullClassName>Lab1PlaceGroup.ViewFilter</FullClassName>
+
+    <Text>View filter</Text>
+
+    <Description>View Filter</Description>
+
+    <VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+
+    <Assembly>Lab1PlaceGroup.dll</Assembly>
+
+    <AddInId>44F2126F-0DE8-404C-BC5E-816CED3C1E45</AddInId>
+
+    <VendorId>ADSK</VendorId>
+
+    <VendorDescription>Autodesk, Inc, www.autodesk.com</VendorDescription>
+
+  </AddIn>  
+<AddIn Type="Command">
+
+    <Name>Lab1PlaceGroup</Name>
+
+    <FullClassName>Lab1PlaceGroup.TaggingItems</FullClassName>
+
+    <Text>TaggingItems</Text>
+
+    <Description>View Filter</Description>
+
+    <VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+
+    <Assembly>Lab1PlaceGroup.dll</Assembly>
+
+    <AddInId>F3960427-DDBE-4A09-904B-5F765ABC564E</AddInId>
+
+    <VendorId>ADSK</VendorId>
+
+    <VendorDescription>Autodesk, Inc, www.autodesk.com</VendorDescription>
+
+  </AddIn>
+<AddIn Type="Application">
+
+    <Name>ApplicationPlugin</Name>
+
+    <Assembly>Lab1PlaceGroup.dll</Assembly>
+
+    <AddInId>3D4D6FED-89BD-4C38-8DEC-C87CE2631938</AddInId>
+
+    <FullClassName>Lab1PlaceGroup.ExternalApplication</FullClassName>
+
+    <VendorId>ADSK</VendorId>
+
+    <VendorDescription>Autodesk, Inc, www.autodesk.com</VendorDescription>
+
+  </AddIn>
+  
+ <AddIn Type="DBApplication">
+
+    <Name>DBApplicationPlugin</Name>
+    
+    <Assembly>Lab1PlaceGroup.dll</Assembly>
+
+    <AddInId>5A394B1E-55A4-4F3A-AA33-5A3BB0F56357</AddInId>
+    
+   <FullClassName>Lab1PlaceGroup.ExternalDBapp</FullClassName>
+
+   <VendorId>ADSK</VendorId>
+
+   <VendorDescription>Autodesk, Inc, www.autodesk.com</VendorDescription>
+   
+ </AddIn>
+
+</RevitAddIns>
+
