@@ -5,3 +5,14 @@ C:\Users\stadwalkar\source\repos\Lab1PlaceGroup\Lab1PlaceGroup\obj\Debug\Lab1Pla
 C:\Users\stadwalkar\source\repos\Lab1PlaceGroup\Lab1PlaceGroup\obj\Debug\Lab1PlaceGroup.pdb
 C:\Users\stadwalkar\source\repos\Lab1PlaceGroup\Lab1PlaceGroup\bin\Debug\Lab1PlaceGroup.addin
 C:\Users\stadwalkar\source\repos\Lab1PlaceGroup\Lab1PlaceGroup\obj\Debug\Lab1PlaceGroup.csproj.CoreCompileInputs.cache
+C:\Users\Sahil\Source\Repos\RevitToolbar\Lab1PlaceGroup\obj\Debug\Lab1PlaceGroup.csprojAssemblyReference.cache
+C:\Users\Sahil\Source\Repos\RevitToolbar\Lab1PlaceGroup\obj\Debug\Lab1PlaceGroup.csproj.CoreCompileInputs.cache
+C:\Users\Sahil\Source\Repos\RevitToolbar\Lab1PlaceGroup\obj\Debug\Lab1PlaceGroup.dll
+C:\Users\Sahil\Source\Repos\RevitToolbar\Lab1PlaceGroup\obj\Debug\Lab1PlaceGroup.pdb
+C:\Users\Sahil\source\repos\Lab1PlaceGroup\Lab1PlaceGroup\bin\Debug\Lab1PlaceGroup.addin
+C:\Users\Sahil\source\repos\Lab1PlaceGroup\Lab1PlaceGroup\bin\Debug\Lab1PlaceGroup.dll
+C:\Users\Sahil\source\repos\Lab1PlaceGroup\Lab1PlaceGroup\bin\Debug\Lab1PlaceGroup.pdb
+C:\Users\Sahil\source\repos\Lab1PlaceGroup\Lab1PlaceGroup\obj\Debug\Lab1PlaceGroup.csprojAssemblyReference.cache
+C:\Users\Sahil\source\repos\Lab1PlaceGroup\Lab1PlaceGroup\obj\Debug\Lab1PlaceGroup.csproj.CoreCompileInputs.cache
+C:\Users\Sahil\source\repos\Lab1PlaceGroup\Lab1PlaceGroup\obj\Debug\Lab1PlaceGroup.dll
+C:\Users\Sahil\source\repos\Lab1PlaceGroup\Lab1PlaceGroup\obj\Debug\Lab1PlaceGroup.pdb

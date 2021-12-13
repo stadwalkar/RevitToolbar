@@ -34,9 +34,10 @@ namespace Lab1PlaceGroup
                     Parameter param = ele.LookupParameter("Head Height");
                     InternalDefinition paramDef = param.Definition as InternalDefinition;
 
+                   
                     TaskDialog.Show("Parameters", string.Format("{0} parameter of type {1} with builtinparameter {2}",
                        paramDef.Name,
-                       paramDef.UnitType,
+                       paramDef.ParameterType,
                        paramDef.BuiltInParameter));
 
                 }

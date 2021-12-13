@@ -47,7 +47,7 @@ namespace Lab1PlaceGroup
                             faces++;
                         }
 
-                        area = UnitUtils.ConvertFromInternalUnits(area, DisplayUnitType.DUT_SQUARE_METERS);
+                        area = UnitUtils.ConvertFromInternalUnits(area, UnitTypeId.SquareMeters);
 
                         TaskDialog.Show("Geometry", string.Format("Number of Faces:{0}" + Environment.NewLine
                             + "Total Area:{1}", faces, area));

@@ -43,7 +43,7 @@ namespace Lab1PlaceGroup
             //Create Curve Loop 
 
             CurveLoop crvLoop = CurveLoop.Create(curves);
-            double offset = UnitUtils.ConvertToInternalUnits(135, DisplayUnitType.DUT_MILLIMETERS);
+            double offset = UnitUtils.ConvertFromInternalUnits(135, UnitTypeId.Millimeters);
             CurveLoop offsetcrv = CurveLoop.CreateViaOffset(crvLoop, offset, new XYZ(0, 0, 1));
 
             CurveArray cArray = new CurveArray();
